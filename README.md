@@ -10,8 +10,8 @@ Version版本: 1.0 未完成</br>
 目前只完成了tabContro2里的单个直播间解析直播源功能</br>
 显示主播头像和实时截图（需要重复解析）</br>
 直播源分为:</br>
-1.http://hyplayer.msstatic.com/v3.2_19082301/main.swf?topSid=" + channel + "&subSid=" + liveChannel + "&pnick=" + nick</br>
-v3.2_19082301 / v3.2_18011202</br>
+1.v3.2_19082301 / v3.2_18011202</br>
+http://hyplayer.msstatic.com/v3.2_19082301/main.swf?topSid=" + channel + "&subSid=" + liveChannel + "&pnick=" + nick</br>
 v3.2_19092602</br>
 http://hyplayer.msstatic.com/v3.2_19092602/main.swf?topSid=" + channel + "&subSid=" + liveChannel + "&pyyid=" + yyid</br>
 2.http://aldirect.hls.huya.com/huyalive/ + "sStreamName".m3u8</br>
