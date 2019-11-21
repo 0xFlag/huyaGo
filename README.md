@@ -37,7 +37,9 @@ http://js.hls.huya.com/backsrc/ + "sStreamName".m3u8</br>
 http://js.hls.huya.com/huyalive/ + "sStreamName".m3u8</br>
 </br>
 slice
-</br>
+http://al.p2p.huya.com/huyalive/ + "sStreamName" + _0_2_66.slice</br>
+http://tx.p2p.huya.com/huyalive/ + "sStreamName" + _0_2_66.slice</br>
+http://js.p2p.huya.com/huyalive/ + "sStreamName" + _0_2_66.slice</br>
 直播格式为:</br>
 flash 默认 1500 1200 800 500 100</br>
 </br>
