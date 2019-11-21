@@ -16,7 +16,12 @@ v3.2_19092602</br>
 http://hyplayer.msstatic.com/v3.2_19092602/main.swf?topSid=" + channel + "&subSid=" + liveChannel + "&pyyid=" + yyid</br>
 </br>
 flv</br>
-</br>
+http://al.flv.huya.com/backsrc/ + "sStreamName".flv</br>
+http://al.flv.huya.com/huyalive/ + "sStreamName".flv</br>
+http://tx.flv.huya.com/backsrc/ + "sStreamName".flv</br>
+http://tx.flv.huya.com/huyalive/ + "sStreamName".flv</br>
+http://js.flv.huya.com/backsrc/ + "sStreamName".flv</br>
+http://js.flv.huya.com/huyalive/ + "sStreamName".flv</br>
 m3u8</br>
 http://al.flv.huya.com/backsrc/ + "sStreamName".m3u8</br>
 http://al.flv.huya.com/huyalive/ + "sStreamName".m3u8</br>
