@@ -14,9 +14,25 @@ Version版本: 1.0 未完成</br>
 http://hyplayer.msstatic.com/v3.2_19082301/main.swf?topSid=" + channel + "&subSid=" + liveChannel + "&pnick=" + nick</br>
 v3.2_19092602</br>
 http://hyplayer.msstatic.com/v3.2_19092602/main.swf?topSid=" + channel + "&subSid=" + liveChannel + "&pyyid=" + yyid</br>
-2.http://aldirect.hls.huya.com/huyalive/ + "sStreamName".m3u8</br>
-3.http://tx.flv.huya.com/backsrc/ + "sStreamName".m3u8</br>
-4.http://tx.hls.huya.com//huyalive/ + "sStreamName".m3u8</br>
+</br>
+flv</br>
+</br>
+m3u8</br>
+http://al.flv.huya.com/backsrc/ + "sStreamName".m3u8</br>
+http://al.flv.huya.com/huyalive/ + "sStreamName".m3u8</br>
+http://al.hls.huya.com/backsrc/ + "sStreamName".m3u8</br>
+http://al.hls.huya.com/huyalive/ + "sStreamName".m3u8</br>
+http://tx.flv.huya.com/backsrc/ + "sStreamName".m3u8</br>
+http://tx.flv.huya.com/huyalive/ + "sStreamName".m3u8</br>
+http://tx.hls.huya.com/backsrc/ + "sStreamName".m3u8</br>
+http://tx.hls.huya.com/huyalive/ + "sStreamName".m3u8</br>
+http://js.flv.huya.com/backsrc/ + "sStreamName".m3u8</br>
+http://js.flv.huya.com/huyalive/ + "sStreamName".m3u8</br>
+http://js.hls.huya.com/backsrc/ + "sStreamName".m3u8</br>
+http://js.hls.huya.com/huyalive/ + "sStreamName".m3u8</br>
+</br>
+slice
+</br>
 直播格式为:</br>
 flash 默认 1500 1200 800 500 100</br>
 </br>
