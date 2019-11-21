@@ -35,7 +35,7 @@ http://js.flv.huya.com/backsrc/ + "sStreamName".m3u8</br>
 http://js.flv.huya.com/huyalive/ + "sStreamName".m3u8</br>
 http://js.hls.huya.com/backsrc/ + "sStreamName".m3u8</br>
 http://js.hls.huya.com/huyalive/ + "sStreamName".m3u8</br>
-slice
+slice</br>
 http://al.p2p.huya.com/huyalive/ + "sStreamName" + _0_2_66.slice</br>
 http://tx.p2p.huya.com/huyalive/ + "sStreamName" + _0_2_66.slice</br>
 http://js.p2p.huya.com/huyalive/ + "sStreamName" + _0_2_66.slice</br>
