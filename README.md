@@ -23,6 +23,8 @@ http://tx.flv.huya.com/backsrc/ + "sStreamName".flv</br>
 http://tx.flv.huya.com/huyalive/ + "sStreamName".flv</br>
 http://js.flv.huya.com/backsrc/ + "sStreamName".flv</br>
 http://js.flv.huya.com/huyalive/ + "sStreamName".flv</br>
+http://ws4.stream.huya.com/backsrc/ + "sStreamName".flv</br>
+http://aldirect.flv.huya.com/backsrc/ + "sStreamName".flv</br>
 m3u8</br>
 http://al.flv.huya.com/backsrc/ + "sStreamName".m3u8</br>
 http://al.flv.huya.com/huyalive/ + "sStreamName".m3u8</br>
@@ -36,10 +38,14 @@ http://js.flv.huya.com/backsrc/ + "sStreamName".m3u8</br>
 http://js.flv.huya.com/huyalive/ + "sStreamName".m3u8</br>
 http://js.hls.huya.com/backsrc/ + "sStreamName".m3u8</br>
 http://js.hls.huya.com/huyalive/ + "sStreamName".m3u8</br>
+http://ws4.streamhls.huya.com/backsrc/ + "sStreamName".m3u8</br>
+http://aldirect.hls.huya.com/backsrc/ + "sStreamName".m3u8</br>
 slice</br>
 http://al.p2p.huya.com/huyalive/ + "sStreamName" + _0_2_66.slice</br>
 http://tx.p2p.huya.com/huyalive/ + "sStreamName" + _0_2_66.slice</br>
 http://js.p2p.huya.com/huyalive/ + "sStreamName" + _0_2_66.slice</br>
+http://ws.p2p.huya.com/huyalive/ + "sStreamName" + _0_2_66.slice</br>
+http://al.p2p.huya.com\/huyalive/ + "sStreamName" + _0_2_66.slice</br>
 直播格式为:</br>
 flash 默认 1500 1200 800 500 100</br>
 </br>
